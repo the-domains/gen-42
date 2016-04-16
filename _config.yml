@@ -1,7 +1,7 @@
 name: GEN 42
 favicon: null
-layout_spectrum: 0.9598377214279026
-typography_spectrum: 0.7306239146273583
+layout_spectrum: 1
+typography_spectrum: 0.25984
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.3667822340503335
+  brandStrength: 1
   lightness: 0.16350703104399145
   saturation: 0.9685035485308617
   rhythmicContrast: 0.9305057155434042
