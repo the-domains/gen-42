@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[GEN 42]]></title>
         <description><![CDATA[GEN 42]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gen-42/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 20:35:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 07 Jun 2016 15:36:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gen-42/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d865a06a-89c8-4faa-99c9-243f825fc5e4.png">]]></description>
+            <link>https://thegrid.ai/gen-42/gen-42-agence-de-communication-digitale/index.html</link>
+            <guid isPermaLink="false">4f749f72-7102-49d9-ae1d-7b213cb8c086</guid>
+            <pubDate>Tue, 07 Jun 2016 15:36:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8afeaea-623b-4907-8188-5098a94ed15f.png">]]></description>
-            <link>undefined5ca4594b-b283-458c-ac4c-100c7d0dc912/index.html</link>
+            <link>https://thegrid.ai/gen-42/5ca4594b-b283-458c-ac4c-100c7d0dc912/index.html</link>
             <guid isPermaLink="false">5ca4594b-b283-458c-ac4c-100c7d0dc912</guid>
             <pubDate>Sat, 16 Apr 2016 20:35:35 GMT</pubDate>
         </item>
