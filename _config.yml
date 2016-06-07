@@ -1,7 +1,7 @@
 name: GEN 42
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.25984
+typography_spectrum: 0.25515
 title: GEN 42 agence de communication digitale
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
   brandStrength: 1
-  lightness: 0.16350703104399145
-  saturation: 0.9685035485308617
-  rhythmicContrast: 0.9305057155434042
+  lightness: 0.75
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
